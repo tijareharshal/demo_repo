@@ -1,3 +1,3 @@
 # Local Development
 
-### Adding new features 
+### Adding new features
